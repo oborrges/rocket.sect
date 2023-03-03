@@ -15,7 +15,7 @@ A Pagina foi criada através de um layout no FIGMA, assim como o dia a dia de um
 <br>
 
 <p align="center">
-  <img alt="pagina para apreentação de uma empresa de segurança de dados" src=".github/preview.jpg" width="100%">
+  <img alt="pagina para apreentação de uma empresa de segurança de dados" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
